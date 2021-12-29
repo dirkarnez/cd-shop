@@ -14,11 +14,10 @@ cd-shop
 - [ ] EVAL
 - [ ] networking
 - [ ] reflection
-- [ ] macros
+- [ ] macros / metaprogramming
 - [ ] incremental compilation
 - [ ] file system
 - [ ] multithreading
-- [ ] 
 
 ### TODOs
 - [ ] portable setup
@@ -26,3 +25,5 @@ cd-shop
 
 Reference
 - http://www.gigamonkeys.com/book/
+- https://riptutorial.com/common-lisp/awesome-learning/book
+  - https://riptutorial.com/Download/common-lisp.pdf
