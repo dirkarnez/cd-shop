@@ -13,6 +13,7 @@ cd-shop
 - [ ] Property Lists
 - [ ] EVAL
 - [ ] networking
+  - https://github.com/fukamachi/dexador
 - [ ] reflection
 - [ ] macros / metaprogramming
 - [ ] incremental compilation
@@ -27,3 +28,5 @@ Reference
 - http://www.gigamonkeys.com/book/
 - https://riptutorial.com/common-lisp/awesome-learning/book
   - https://riptutorial.com/Download/common-lisp.pdf
+- https://github.com/CodyReichert/awesome-cl
+- https://github.com/CodyReichert/awesome-cl#apl
