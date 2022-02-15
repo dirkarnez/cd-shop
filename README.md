@@ -21,6 +21,7 @@ cd-shop
 - [ ] multithreading
 - [ ] package manager
   - just follow the instruction in [Quicklisp beta](https://www.quicklisp.org/beta/)
+    - however, Quicklisp does modify `%USERPROFILE%`
 
 ### TODOs
 - [ ] portable setup
