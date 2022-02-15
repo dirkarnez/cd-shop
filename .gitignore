@@ -1,4 +1,9 @@
 /*.fasl
 /*.exe
 /*.dll
+/*.png
+/*.jpg
+/*.jpeg
+/*.ttf
+
 sbcl-2.1.11-x86-64-windows-binary
