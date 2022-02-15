@@ -19,6 +19,8 @@ cd-shop
 - [ ] incremental compilation
 - [ ] file system
 - [ ] multithreading
+- [ ] package manager
+  - just follow the instruction in [Quicklisp beta](https://www.quicklisp.org/beta/)
 
 ### TODOs
 - [ ] portable setup
