@@ -5,6 +5,7 @@ cd-shop
 - [Official installer](http://www.sbcl.org/platform-table.html) + [Common Lisp - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=qingpeng.common-lisp)
 
 ### Concepts
+- [ ] predicates
 - [ ] Symbols
 - [ ] strings
 - [ ] LIST
