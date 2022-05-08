@@ -27,6 +27,8 @@ cd-shop
 ### TODOs
 - [ ] portable setup
 - [ ] ecl
+- [ ] AI programming
+  - [norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"](https://github.com/norvig/paip-lisp)
 
 Reference
 - http://www.gigamonkeys.com/book/
